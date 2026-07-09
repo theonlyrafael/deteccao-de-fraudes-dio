@@ -1,2 +1,2 @@
-# deteccao-anomalias-transacoes-dio
+# Detecção de Fraudes
 Projeto de análise de dados para detecção de anomalias em transações financeiras utilizando Python e Pandas.
